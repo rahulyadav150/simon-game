@@ -1,7 +1,10 @@
 ## Simon-Game
 
 It is an online desktop game,made using jquery.
-you can take a look by this [simon-game]
+![img1](https://user-images.githubusercontent.com/64326790/107110065-eb64b580-686a-11eb-8cdb-4f9459496f9d.png)
+![img2](https://user-images.githubusercontent.com/64326790/107110067-ed2e7900-686a-11eb-98d6-e65df20178f8.png)
+
+
 
 ### Markdown
 
