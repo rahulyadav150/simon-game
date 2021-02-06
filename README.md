@@ -1,8 +1,7 @@
 ## Simon-Game
 
-You can use the [editor on GitHub](https://github.com/rahulyadav150/simon-game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is an online desktop game,made using jquery.
+you can take a look by this [simon-game]
 
 ### Markdown
 
